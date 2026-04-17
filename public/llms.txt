@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אדמתנו ביתנו בע&quot;מ מציעה שירותי ייעוץ משכנתאות מותאמים במיוחד לחברה הערבית בישראל. פתרונות משכנתא חכמים, אישיים ומקצועיים — כי הבית שלך מתחיל כאן.
+
+### תחילת עבודה
+https://example.com/getting-started
+לא יודע מאיפה להתחיל? המדריך שלנו לתחילת עבודה מסביר כל שלב בתהליך קבלת משכנתא בצורה פשוטה וברורה. ייעוץ משכנתא לחברה הערבית — בשפה שלך, בקצב שלך.
+
+### אודות
+https://example.com/about
+אדמתנו ביתנו בע&quot;מ נוסדה מתוך שליחות אמיתית לסייע לחברה הערבית בישראל להגשים את חלום הבית. הכר את הצוות המקצועי שמלווה אותך בכל שלב עם ייעוץ משכנתא אישי ואמין.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על משכנתא? צור קשר עם יועץ משכנתאות מקצועי מאדמתנו ביתנו בע&quot;מ עוד היום. אנחנו כאן בשבילך — בכפרים הערביים, בשפה שלך, עם פתרונות משכנתא שמתאימים לך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
